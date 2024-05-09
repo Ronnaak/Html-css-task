@@ -1,0 +1,273 @@
+*{
+    margin: 0;
+}
+.row{
+    width:1458px;
+    height: auto;
+    background-color: black;
+    box-sizing: border-box;
+    
+    
+  }
+  .col1{
+    width: 121.5px;
+    height: auto;
+    float: left;
+  }
+  .col2{
+    width: 243px;
+    height: auto;
+    float: left;
+  }
+  .col3{
+    width: 364.5px;
+    height: auto;
+    float: left;
+  }
+  .col4{
+    width: 486px;
+    height: auto;
+    float: left;
+  }
+  .col5{
+    width: 607.5px;
+    height: auto;
+    float: left;
+  }
+  
+  .col6{
+    width: 729px;
+    height: auto;
+    float: left;
+  }
+  .col7{
+    width: 850.5px;
+    height: auto;
+    float: left;
+  }
+  .col8{
+    width: 972px;
+    height: auto;
+    float: left;
+  }
+  .col9{
+    width: 1093.5px;
+    height: auto;
+    float: left;
+  }
+  .col10{
+    width: 1215px;
+    height: auto;
+    float: left;
+  }
+  .col11{
+    width: 1336.5px;
+    height: auto;
+    float: left;
+  }
+  .col12{
+    width: 1458px;
+    height: auto;
+    float: left;
+  }
+  .clear{
+    clear: both;
+  }
+  .red{
+    background-color: red
+  }
+  .blue{
+    background-color: blue;
+  }
+  .yellow{
+    background-color: yellow;
+  }
+  .pink{
+    background-color: pink;
+  }
+  .brown{
+    background-color: brown;
+  }
+  .white{
+    background-color: white
+  }
+  .black{
+    background-color: black;
+    height: 55px;
+  }
+  .row1{
+    width:1332px;
+    height: auto;
+    background-color: red;
+    margin: 0 auto;
+    /* box-sizing: border-box; */
+    
+    
+  }
+  .col1a{
+    width: 111px;
+    height: auto;
+    float: left;
+  }
+  .col2a{
+    width: 222px;
+    height: auto;
+    float: left;
+  }
+  .col3a{
+    width: 333px;
+    height: auto;
+    float: left;
+  }
+  .col4a{
+    width: 444px;
+    height: auto;
+    float: left;
+  }
+  .col5a{
+    width: 555px;
+    height: auto;
+    float: left;
+  }
+  
+  .col6a{
+    width: 666px;
+    height: auto;
+    float: left;
+  }
+  .col7a{
+    width: 777px;
+    height: auto;
+    float: left;
+  }
+  .col8a{
+    width: 888px;
+    height: auto;
+    float: left;
+  }
+  .col9a{
+    width: 999px;
+    height: auto;
+    float: left;
+  }
+  .col10a{
+    width: 1110px;
+    height: auto;
+    float: left;
+  }
+  .col11a{
+    width: 1221px;
+    height: auto;
+    float: left;
+  }
+  .col12a{
+    width: 1332px;
+    height: auto;
+    float: left;
+  }
+  .logo{
+    color: white;
+    font-size: 23px;
+    font-family: calibri;
+    padding-left: 175px;
+    padding-top: 12px;
+    cursor: pointer;
+  }
+  .menu{
+    height: 60px;
+    width: auto;
+    float: right;
+  }
+  .menu ul{
+    /* position: fixed;
+    right: 40px; */
+    padding-right: 60px;
+    padding-top: 12px;
+  }
+  .menu ul li{
+    
+    list-style-type: none;
+    color: white;
+    margin-right: 5px;
+    display:inline-block;
+  }
+  .menu ul li a{
+    color: white;
+  }
+  .gray{
+    background-color: #6c757d;
+    height: 100px;
+    border-radius: 5px;
+  }
+  .a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 19px;
+    text-align: justify;
+  }
+  .button input {
+     margin-top: 20px;
+     border-radius: 3px;
+     border-color: #0d6efd;
+     color: white;
+     background-color: #0d6efd;
+     padding: 8px;
+     font-size: 18px;
+     cursor: pointer;
+  }
+
+
+  .b{
+    text-align: center;;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin: 40px;
+
+  }
+
+  .box1{
+    height: 250px;
+    width: 370px;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+  }
+  .c{
+    text-align: left;
+    font-size: 38px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 10px;
+    padding-top: 10px;
+
+  }
+  
+  .box2{
+    height: 250px;
+    width: 420px;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+  }
+  
+  .box3{
+    height: 250px;
+    width: 440px;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+  }
+  .gray1{
+    background-color: #212529;
+    width: 1458px;
+    height: 60px;
+    margin-top: 50px;
+    color: white;
+  }
+  .s{
+    height: 400px
+  }
+  .on{
+    font-size: 80px;
+    margin-left: 230px;
+    margin-top: 90px;
+    color: black;
+  }
+  
+  

@@ -1,0 +1,216 @@
+#a{
+    border-width: 10px;
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 20px;
+}
+
+#b{
+    border-width: 10px;
+    border-style: groove;
+    border-color: inset;
+    border-color: brown;
+    border-top-right-radius:20% ; 
+    border-top-left-radius: 20%;
+}
+#c{
+    border-width: 10px;
+    border-style: double;
+    border-color: rgb(89, 0, 255);
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
+#d{
+    border-width: 10px;
+    border-style: dotted;
+    border-color: rgb(0, 255, 34);
+    border-radius: 20px;
+    
+}
+#e{
+    border-width: 10px;
+    border-style: ridge;
+    border-color: rgb(255, 251, 0);
+    border-radius: 20%;
+}
+#f{
+    border-width: 10px;
+    border-style: outset;
+    border-color: rgb(255, 81, 0);
+    border-radius: 10%;
+}
+#g{
+    border-width: 10px;
+    border-style: dashed;
+    border-color:cadetblue;
+    border-radius: 30%;
+}
+#ha{
+    border-width: 30px;
+    border-top: double;
+    border-left: dashed;
+    border-right: dashed;
+    border-bottom: solid;
+    border-color: aqua;
+    border-radius: 20px;
+}
+#ia{
+    border-width: 10px;
+    border-top: double;
+    border-left: dotted;
+    border-right: dotted;
+    border-bottom: double;
+    
+    border-color: palegreen;
+    border-radius: 10%;
+}
+#ja{
+    border-width: 10px;
+    border-top: ridge;
+    border-left: groove;
+    border-right: groove;
+    border-bottom: ridge;
+    border-color: hotpink;
+    border-radius: 20%;
+}
+
+#aa{
+    outline-width: 10px;
+    outline-color: burlywood;
+    outline-style: solid;
+
+
+    border-width: 10px;
+    border-top: ridge;
+    border-left: groove;
+    border-right: groove;
+    border-bottom: ridge;
+    border-color: hotpink;
+    border-radius: 20%;
+}
+#ba{
+    outline-width: 10px;
+    outline-color: goldenrod;
+    outline-style: dotted;
+
+
+    border-width: 10px;
+    border-top: ridge;
+    border-left: groove;
+    border-right: groove;
+    border-bottom: ridge;
+    border-color: rebeccapurple;
+    border-radius: 20%;
+}
+#ca{
+    outline-width: 10px;
+    outline-color: gray;
+    outline-style: dashed;
+
+
+    border-width: 10px;
+    border-top: ridge;
+    border-left: dashed;
+    border-right: inset;
+    border-bottom: ridge;
+    border-color: firebrick;
+    border-radius: 20%;
+}
+#da{
+    outline-width: 10px;
+    outline-color: gold;
+    outline-style: double;
+
+
+    border-width: 10px;
+    border-top: double;
+    border-left: groove;
+    border-right: groove;
+    border-bottom: double;
+    border-color: greenyellow;
+    border-radius: 20%;
+}
+#ea{
+    outline-width: 10px;
+    outline-color:cadetblue;
+    outline-style: groove;
+
+
+    border-width: 10px;
+    border-top: outset;
+    border-left: inset;
+    border-right: inset;
+    border-bottom: ridge;
+    border-color: khaki;
+    border-radius: 20%;
+}
+#fa{
+    outline-width: 10px;
+    outline-color: teal;
+    outline-style: ridge;
+
+
+    border-width: 10px;
+    border-top: ridge;
+    border-left: groove;
+    border-right: groove;
+    border-bottom: ridge;
+    border-color: hotpink;
+    border-radius: 20%;
+}
+#ga{
+    outline-width: 10px;
+    outline-color: blue;
+    outline-style: outset;
+
+
+    border-width: 10px;
+    border-top: ridge;
+    border-left: groove;
+    border-right: groove;
+    border-bottom: ridge;
+    border-color:darkcyan;
+    border-radius: 20%;
+}
+#hab{
+    outline-width: 10px;
+    outline-color: yellow;
+    outline-style: dotted;
+
+
+    border-width: 10px;
+    border-top: ridge;
+    border-left: groove;
+    border-right: groove;
+    border-bottom: ridge;
+    border-color: green;
+    border-radius: 20%;
+}
+#iab{
+    outline-width: 10px;
+    outline-color: bisque;
+    outline-style: dashed;
+
+
+    border-width: 10px;
+    border-top: ridge;
+    border-left: groove;
+    border-right: groove;
+    border-bottom: ridge;
+    border-color: lawngreen;
+    border-radius: 20%;
+}
+#jab{
+    outline-width: 10px;
+    outline-color:salmon;
+    outline-style: solid;
+
+
+    border-width: 10px;
+    border-top: ridge;
+    border-left: groove;
+    border-right: groove;
+    border-bottom: ridge;
+    border-color: blueviolet;
+    border-radius: 20%;
+}

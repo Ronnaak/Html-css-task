@@ -1,0 +1,57 @@
+.a{
+    border: 5px solid skyblue;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: white;
+    float: left;
+    position: static;
+
+}
+.b{
+    border: 5px solid black;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: white;
+    float: left;
+    position: static;
+  
+
+}
+.c{
+    border: 5px solid red;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: white;
+    float: left;
+    position: static;
+
+}
+.d{
+    border: 5px solid rgb(255, 234, 40);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color:white;
+    position: absolute;
+    top: 190px;
+    left: 110px;
+    
+
+   
+
+}
+.e{
+    border: 5px solid green;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: 190px;
+    left: 320px;
+   
+
+}

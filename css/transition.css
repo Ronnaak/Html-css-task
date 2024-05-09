@@ -1,0 +1,500 @@
+.box1{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    /* background-color: aqua; */
+    /* background-image: url("img/1.jpg"); */
+    background-image: url("img/bg2.jpg");
+    background-image: url("img/bg2.jpg");
+    background-size: cover;
+    transition: all 2s 2s;
+}
+.box1:hover{
+    border-radius: 50%;
+    background-image: url("img/bg2.jpg");
+    /* background-color: blue; */
+   
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgb(255, 102, 0);
+    transition: all 2s 2s;
+}
+.box2:hover{
+    border-radius: 50%;
+    background-color: rgb(0, 255, 0);
+    rotate: 45deg;
+   
+}
+.box3{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgb(255, 0, 234);
+    transition: all 2s 2s;
+}
+.box3:hover{
+    border-radius: 50%;
+    background-color: rgb(157, 255, 0);
+    translate: 50px;
+
+   
+}
+.box4{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgb(251, 255, 0);
+    transition: all 2s 2s;
+    
+}
+.box4:hover{
+    border-radius: 50%;
+    background-color: rgb(202, 22, 22);
+    translate: -50px;
+   
+}
+.box5{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgba(0, 255, 255, 0.753);
+    transition: all 2s 2s;
+}
+.box5:hover{
+    border-radius: 50%;
+    background-color: rgba(255, 0, 200, 0.747);
+    scale: 90deg;
+  
+   
+}
+.box6{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgb(255, 115, 0);
+    transition: all 2s 2s;
+}
+.box6:hover{
+    border-radius: 30%;
+    background-color: blue;
+    transform-origin: 45px;
+
+   
+}
+.box7{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgb(70, 180, 180);
+    transition: all 2s 2s;
+}
+.box7:hover{
+    border-radius: 50%;
+    background-color: rgba(255, 0, 221, 0.295);
+    rotate: 360deg;
+    translate: 30px;
+   
+}
+.box8{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgba(255, 174, 0, 0.61);
+    transition: all 2s 2s;
+}
+.box8:hover{
+    border-radius: 50%;
+    background-color: rgba(0, 255, 128, 0.76);
+    scale: 2;
+   
+}
+.box9{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgb(95, 21, 212);
+    transition: all 2s 2s;
+}
+.box9:hover{
+    border-radius: 50%;
+    background-color: rgba(0, 0, 255, 0.397);
+    translate: 45px ;
+   
+}
+.box10{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgba(208, 255, 0, 0.705);
+    transition: all 2s 2s;
+}
+.box10:hover{
+    border-radius: 50%;
+    /* background-color: rgba(0, 174, 255, 0.61); */
+    background-image: url("img/1.jpg");
+    background-size: cover;
+   
+}
+.box11{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgba(195, 0, 255, 0.733);
+    transition: all 2s 2s;
+}
+.box11:hover{
+    border-radius: 50%;
+    background-color: rgba(255, 60, 0, 0.432);
+   
+}
+.box12{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: rgba(0, 255, 255, 0.308);
+    transition: all 2s 2s;
+}
+.box12:hover{
+    border-radius: 50%;
+    background-color: rgba(192, 255, 75, 0.705);
+   
+}
+.box13{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: goldenrod;
+    transition: all 2s 2s;
+}
+.box13:hover{
+    border-radius: 50%;
+    background-color:palevioletred;
+   
+}
+.box14{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: palevioletred;
+    transition: all 2s 2s;
+}
+.box14:hover{
+    border-radius: 50%;
+    background-color:gold;
+   
+}
+.box15{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: saddlebrown;
+    transition: all 2s 2s;
+}
+.box15:hover{
+    border-radius: 50%;
+    background-color: salmon;
+   
+}
+.box16{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: firebrick;
+    transition: all 2s 2s;
+}
+.box16:hover{
+    border-radius: 50%;
+    background-color: firebrick;
+   
+}
+.box17{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: forestgreen;
+    transition: all 2s 2s;
+}
+.box17:hover{
+    border-radius: 50%;
+    background-color: fuchsia;
+   
+}
+.box18{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color:sandybrown;
+    transition: all 2s 2s;
+}
+.box18:hover{
+    border-radius: 50%;
+    background-color: seagreen;
+   
+}
+.box19{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: seashell;
+    transition: all 2s 2s;
+}
+.box19:hover{
+    border-radius: 50%;
+    background-color: sienna;
+   
+}
+.box20{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color:silver;
+    transition: all 2s 2s;
+}
+.box20:hover{
+    border-radius: 50%;
+    background-color: skyblue;
+   
+}
+.box21{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: slateblue;
+    transition: all 2s 2s;
+}
+.box21:hover{
+    border-radius: 50%;
+    background-color: slategray;
+   
+}
+.box22{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: snow;
+    transition: all 2s 2s;
+}
+.box22:hover{
+    border-radius: 50%;
+    background-color: springgreen;
+   
+}
+.box23{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: steelblue;
+    transition: all 2s 2s;
+}
+.box23:hover{
+    border-radius: 50%;
+    background-color: antiquewhite;
+   
+}
+.box24{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: aquamarine;
+    transition: all 2s 2s;
+}
+.box24:hover{
+    border-radius: 50%;
+    background-color: azure;
+   
+}
+.box25{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: beige;
+    transition: all 2s 2s;
+}
+.box25:hover{
+    border-radius: 50%;
+    background-color: bisque;
+   
+}
+.box26{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: black;
+    transition: all 2s 2s;
+}
+.box26:hover{
+    border-radius: 50%;
+    background-color: blanchedalmond;
+   
+}
+.box27{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: blue;
+    transition: all 2s 2s;
+}
+.box27:hover{
+    border-radius: 50%;
+    background-color: blueviolet;
+   
+}
+.box28{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: brown;
+    transition: all 2s 2s;
+}
+.box28:hover{
+    border-radius: 50%;
+    background-color: burlywood;
+   
+}
+.box29{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: darkblue;
+    transition: all 2s 2s;
+}
+.box29:hover{
+    border-radius: 50%;
+    background-color: darkcyan;
+   
+}
+.box30{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: darkgoldenrod;
+    transition: all 2s 2s;
+}
+.box30:hover{
+    border-radius: 50%;
+    background-color: darkgray;
+   
+}
+.box31{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: darkgreen;
+    transition: all 2s 2s;
+}
+.box31:hover{
+    border-radius: 50%;
+    background-color: darkkhaki;
+   
+}
+.box32{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: darkmagenta;
+    transition: all 2s 2s;
+}
+.box32:hover{
+    border-radius: 50%;
+    background-color: darkolivegreen;
+   
+}
+.box33{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: darkorange;
+    transition: all 2s 2s;
+}
+.box33:hover{
+    border-radius: 50%;
+    background-color: darkorchid;
+   
+}
+.box34{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: darkred;
+    transition: all 2s 2s;
+}
+.box34:hover{
+    border-radius: 50%;
+    background-color: darksalmon;
+   
+}
+.box35{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: darkseagreen;
+    transition: all 2s 2s;
+}
+.box35:hover{
+    border-radius: 50%;
+    background-color: firebrick;
+   
+}
+.box36{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: honeydew;
+    transition: all 2s 2s;
+}
+.box36:hover{
+    border-radius: 50%;
+    background-color: hotpink;
+   
+}
+.box37{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: khaki;
+    transition: all 2s 2s;
+}
+.box37:hover{
+    border-radius: 50%;
+    background-color:lawngreen;
+   
+}
+.box38{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: lavender;
+    transition: all 2s 2s;
+}
+.box38:hover{
+    border-radius: 50%;
+    background-color: blue;
+   
+}
+.box39{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: indianred;
+    transition: all 2s 2s;
+}
+.box39:hover{
+    border-radius: 50%;
+    background-color: blue;
+   
+}
+.box40{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    background-color: olive;
+    transition: all 2s 2s;
+}
+.box40:hover{
+    border-radius: 50%;
+    background-color: palegreen;
+   
+}

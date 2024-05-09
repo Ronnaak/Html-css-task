@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu ul li{
+    list-style-type: none;
+    border: 2px solid black;
+
+    background-color: aquamarine;
+    width: 200px;
+    height: 100px;
+    float: left;
+    display: block;
+}
+.menu ul li a{
+    text-decoration: none;
+    background-color: aquamarine;
+    text-align: center;
+    font-weight: bold;
+    display: block;
+    
+}
+.menu ul li a:hover{
+    background-color: brown;
+    color: white;
+}
+.menu ul ul{
+    display: none;
+    position: absolute;
+
+}
+.menu ul li:hover>ul{
+    display: block;
+}
+.menu ul li ul li{
+    float: none;
+    margin-top: 0;
+    margin-left: 200px;
+    display: block;
+}
